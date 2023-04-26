@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minaguevara
-- 👀 I’m interested in Web Development, Data Science and AI.
-- 🌱 I’m currently learning JavaScript for Front-End, aiming for Full-Stack in the long run.
+- 👀 I’m interested in Full-Stack Development, Data Science and AI.
+- 🌱 I’m currently learning Back-End and Data Science.
 - 💞️ I’m looking to collaborate on any project that can help me learn a little bit more.
 - 📫 How to reach me - on my instagram @minaguevarac, or my email minaguevarac@gmail.com
 
